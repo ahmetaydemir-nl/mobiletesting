@@ -53,5 +53,12 @@ public class WebAppChrome {
         sifre "veli"
         login / giris tusuna
          */
+        //driver.findElementByXPath("//*[@id='accept-cookie-banner-label']").click();
+        Thread.sleep(3000);
+        driver.findElementByXPath("//input[@name='email']").sendKeys("ali");
+        Thread.sleep(3000);
+        driver.findElementByXPath("//input[@name='pass']").sendKeys("veli");
+        Thread.sleep(3000);
+        driver.findElementByXPath("//button[@name='login']").click();
     }
 }
