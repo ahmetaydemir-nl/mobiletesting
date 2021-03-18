@@ -26,3 +26,24 @@ public class TestCheckBox extends Base {
         driver.findElementById("android:id/button1").click();
     }
 }
+
+//calismaniz icin
+//chrome browser da
+//https://youube.com git
+//arama cubugunda "techproed" ara
+//abone ol / subscribe tikla
+//abone oldugunu onayla :slightly_smiling_face: (edited)
+
+//Task 2 : bu ikisini yarin derse kadar yapip kanalda kodlari paylasalim
+//on sart (api demos telefonda ac)
+//apidemos tikla
+//prefrences tikla
+//preferences from code tikla
+//checkbox preference tikla
+//switch preference tikla
+//Edit preference tikla
+//yazi kutusuna "text" yaz ok tikla
+//list preference tikla  option3 sec
+//11:34
+//test senaryosunu anlamak icin aplikasyonda adimlari manual olarak takip edip kodlarinizi yazin
+//gorusmek uzere
